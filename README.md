@@ -8,11 +8,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Create projec Vite
+
 First npm create vite@latest [name-project]
+
 Second in root npm install
+
 Thirt npm run dev
 
 Install bootstrap
+
 npm install bootstrap --save
 
 https://getbootstrap.com/docs/5.0/layout/containers/
@@ -20,7 +24,9 @@ https://getbootstrap.com/docs/5.0/content/tables/
 https://getbootstrap.com/docs/5.0/components/navbar/
 
 Install axios
+
 npm install axios --save
 
 React-router-dom
+
 npm install react-router-dom --save
