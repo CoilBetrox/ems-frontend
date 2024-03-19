@@ -19,9 +19,13 @@ Thirt npm run dev
 npm install bootstrap --save
 
 https://getbootstrap.com/docs/5.0/layout/containers/
+
 https://getbootstrap.com/docs/5.0/content/tables/
+
 https://getbootstrap.com/docs/5.0/components/navbar/
+
 https://getbootstrap.com/docs/5.0/components/buttons/
+
 https://getbootstrap.com/docs/5.0/components/card/
 
 ### Install axios
